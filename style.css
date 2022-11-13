@@ -1,0 +1,42 @@
+.body {
+    background-color: white;
+}
+
+.h1 {
+    font-size: 18px;
+}
+
+.section1 {
+    font-size: 14px;
+    color: green;
+    padding: 10px;
+    border: 3px groove green;
+    margin: 10px;    
+    text-align: center;
+}
+
+.h2 {
+    font-size: 18px;
+}
+
+.section2 {
+    font-size: 14px;
+    color: red;
+    padding: 10px;
+    border: 8px double red;
+    margin: 40px 10px;
+}
+
+.h3 {
+    font-size: 18px;
+}
+
+.section3 {
+   
+    font-size: 14px;
+    text-align: center;
+    color: blue;
+    padding: 10px;
+    border: 3px solid blue;
+    margin: 10px;
+}
